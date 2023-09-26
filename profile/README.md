@@ -1,3 +1,3 @@
 ## Hello World
 
-Welcome to beingminimal-org public profile.
+Welcome to z1-test1 public profile.
