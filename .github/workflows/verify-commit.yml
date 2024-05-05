@@ -1,0 +1,10 @@
+name: Verify Comment and dispatch event
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  start-coding:
+    if: github.event.comment.body == '/start-coding'
+    uses: StaytunedLLP/compass/.github/workflows/create-branch-pr.yml@main
+    secrets: inherit
