@@ -1,5 +1,1 @@
-# Code of conduct
-
-## Hello world...
-
-# H1 Title
+# Code of conduct!
