@@ -1,0 +1,22 @@
+title: "Announcement: "
+labels: ["Announcement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is an announcement for...
+  - type: input
+    id: has-id
+    attributes:
+      label: "Announcement For:"
+      description: For whom is this announcement?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Action Items
+
+        - [] Mention affecting people for this announcement in comment
+        - [] action item 1
+        - [] action item 2
