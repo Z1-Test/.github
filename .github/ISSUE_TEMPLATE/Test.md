@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🚦 Test
+about: Scenario unlocked! Let's build a shield of test cases for bulletproof functionality.
+title: "🚦 "
+labels: ["type: test :vertical_traffic_light:"]
 projects: []
 assignees:
 ---

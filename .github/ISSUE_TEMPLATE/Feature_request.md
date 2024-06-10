@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: ✨ Feature Request
+about: "Dream big, share your feature idea, and join the brainstorming squad to shape the future together!"
+title: "✨ "
+labels: ["type: feature request :sparkles:"]
 projects: []
 assignees:
 ---

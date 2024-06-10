@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🏳️ Feature Flag
+about: "Experiment safely! Refine & iterate on impactful features, collaboratively."
+title: "🏳️ "
+labels: ["type: feature flag :white_flag:"]
 projects: []
 assignees:
 ---

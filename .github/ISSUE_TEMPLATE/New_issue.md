@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: New Issue
+about: Let's team up! Craft a crystal-clear issue so we can solve it together, fast.
+title: ""
+labels:
 projects: []
 assignees:
 ---

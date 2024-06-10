@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🧩 Scenario
+about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life.
+title: "🧩 "
+labels: ["type: scenario :jigsaw:"]
 projects: []
 assignees:
 ---

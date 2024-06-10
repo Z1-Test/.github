@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 📝 Documentation
+about: Together, we can craft docs that inspire and guide. Share your thoughts!
+title: "📝 "
+labels: ["type: docs :memo:"]
 projects: []
 assignees:
 ---

@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🙋 Workflow Request
+about: Empower collaboration! Share your workflow needs and join the team on its journey.
+title: "🙋 "
+labels: ["type: workflow request :raising_hand:"]
 projects: []
 assignees:
 ---

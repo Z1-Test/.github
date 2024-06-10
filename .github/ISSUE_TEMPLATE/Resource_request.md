@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🔋 Resource Request
+about: Level up productivity! Share your resource/hardware needs and join the team on its journey.
+title: "🔋 "
+labels: ["type: resource request :battery:"]
 projects: []
 assignees:
 ---

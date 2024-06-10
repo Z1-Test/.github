@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: ["type: bug :lady_beetle:"]
+name: 🚨 Security Report
+about: Security heroes needed! Share your findings and join the team to fortify our defences.
+title: "🚨 "
+labels: ["type: security report :rotating_light:"]
 projects: []
 assignees:
 ---
