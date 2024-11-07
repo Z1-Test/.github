@@ -1,5 +1,5 @@
 ---
-name: 📝 Documentation
+name: 1_new
 about: Together, we can craft docs that inspire and guide. Share your thoughts!
 title: "📝 "
 labels: ["type: docs :memo:"]
