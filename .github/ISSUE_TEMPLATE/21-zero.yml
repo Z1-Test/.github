@@ -1,0 +1,64 @@
+name: Zero 🌸
+description: Review, adapt, ship
+title: 'username | Day, DD MMM YY'
+type: 'Zero 🌸'
+projects: ["StaytunedLLP/43"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🚀 Speed Leads, Ship Every Day.
+
+  - type: textarea
+    attributes:
+      label: Description
+      value: |
+        As a team member
+        I want to review, adapt, and ship features quickly
+        so that we can deliver value to our users faster.
+
+        ### Why this is important
+
+        1. To ensure continuous delivery and improvement
+        2. To adapt to changing requirements swiftly
+        3. To maintain high user satisfaction
+
+        ### Diagrams
+
+        1. [File/Diagram Name](Link) - Brief description of the diagram
+
+        ### Designs
+
+        1. [File/Design Name](Link) - Brief description of the design
+
+        ### Association
+
+        Feature #00
+        Story #00
+
+        ### Acceptance Criteria
+
+          **Today**
+
+          - [ ] Review completed issues from today and [provide feedback](https://github.com/orgs/StaytunedLLP/projects/43/views/121).
+          - [ ] Review incomplete issues from today and reschedule them.
+          
+          **Tomorrow**
+
+          - [ ] Review goals and ensure issues align with them.
+          - [ ] Review priorities and ensure issues are prioritized correctly for each repo.
+          - [ ] Update due dates as needed.
+          - [ ] Schedule 5 issues from the backlog for tomorrow, including time blocks.
+
+          **General**
+
+          - [ ] Check your github notification inbox and saved items
+          - [ ] Update missing issue types in issues.
+          - [ ] Update missing statuses in issues.
+          - [ ] Review and update issue types if needed.
+          - [ ] Review and update issue statuses as needed.
+          - [ ] Help the team move issues to `defined 📋` status.
+          - [ ] Ensure all issues are in `defined 📋` status before leaving.
+
+        ### Additional Context
